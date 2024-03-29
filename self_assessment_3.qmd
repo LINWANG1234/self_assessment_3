@@ -1,0 +1,44 @@
+---
+title: "Self assessment 3"
+author: "Lin Wang"
+format: html
+---
+
+## Self Assessment
+
+
+### What did you learn?
+
+- I learned about the process of recoding datasets to create new variables and integrating datasets for analysis in R.
+
+- I learned about the use of functions like 'group_by()', 'summarize()', 'left_join()', 'distinct()', and 'bind_rows()' from the dplyr package for data manipulation and integration.
+  
+- Through practical about all these knowledge, I noticed that my skill of using rstudio is getting better now. Also, creating data images by running code is far more easier than using other tools, such as word, excel, etc.
+  
+### What was most/ least challenging?
+
+- Understanding the logic behind the recoding and integration process was straightforward.
+
+- The most challenging aspect might be troubleshooting any errors that arise during the execution of the code, especially when dealing with large datasets.
+  
+### What resources did you consult?
+
+- The text provided a comprehensive explanation of the recoding and integration processes, so most of the time it is detailed enough for me to complete my work.
+
+- I have consulted few YouTube videos for learning more code, which is not that relevant to our course. It is a way to maintain my interst in using rstudo.
+  
+### What more would you like to know about?
+
+- I would like to explore more advanced techniques for data manipulation and integration in R, especially in the context of text analysis and natural language processing.
+  
+### What resources were most/ least beneficial to your learning?
+
+- The provided textbook and our lab practice recipes were beneficial as it explained the concepts step by step with examples.
+
+
+### What strategies you employed or would like to consider employing to support your learning.
+
+- To further support my learning, I would consider practicing the concepts discussed in the text and practiced through our labs with real-world datasets.
+
+- I might also explore additional online tutorials or courses on data manipulation and integration in R to deepen my understanding.
+
